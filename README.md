@@ -1,2 +1,2 @@
 # scraper
-[](https://github.com/Omar-zoubi/scraper/pull/1)
+[PULL](https://github.com/Omar-zoubi/scraper/pull/1)
