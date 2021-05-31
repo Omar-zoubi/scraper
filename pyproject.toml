@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "scraper"
+version = "0.1.0"
+description = ""
+authors = ["Omar-zoubi <o.fandi02@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bs4 = "^0.0.1"
+requests = "^2.25.1"
+jupyterlab = "^3.0.16"
+pytest = "^6.2.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
